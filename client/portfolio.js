@@ -7,8 +7,8 @@ import css from './styles/style.styl';
 
 // Import Components
 import App from './components/App';
-import Single from './components/Single';
-import ProjectGrid from './components/ProjectGrid';
+import Single from './components/portfolio/Single';
+import ProjectGrid from './components/portfolio/ProjectGrid';
 
 // import react router deps
 import { Router, Route, IndexRoute, browserHistory } from 'react-router';
