@@ -20,6 +20,7 @@ const Project = React.createClass({
 
         <figcaption>
           <p>{post.caption}</p>
+          <p>{post.description}</p>
           <div className="control-buttons">
             <button onClick={this.props.increment.bind(null, i)} className="likes">&hearts; {post.likes}</button>
             <Link className="button" to={`/view/${post.code}`}>
