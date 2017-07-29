@@ -1,5 +1,5 @@
 import React from 'react';
-import Photo from './Project';
+import Project from './Project';
 import Comments from './Comments';
 
 const Single = React.createClass({
@@ -13,7 +13,7 @@ const Single = React.createClass({
 
     return (
       <div className="single-project">
-        <Photo i={i} post={post} {...this.props} />
+        <Project i={i} post={post} {...this.props} />
         <Comments postComments={postComments} {...this.props} />
       </div>
     )
