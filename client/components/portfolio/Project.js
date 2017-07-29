@@ -15,7 +15,6 @@ const Project = React.createClass({
           <CSSTransitionGroup transitionName="like" transitionEnterTimeout={500} transitionLeaveTimeout={500}>
             <span key={post.likes} className="likes-heart">{post.likes}</span>
           </CSSTransitionGroup>
-
         </div>
 
         <figcaption>
@@ -31,7 +30,6 @@ const Project = React.createClass({
             </Link>
           </div>
         </figcaption>
-
       </figure>
     )
   }
