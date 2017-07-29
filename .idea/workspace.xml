@@ -105,7 +105,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/components/Main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -117,11 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.styl" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.styl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/styles/style.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="150" column="14" lean-forward="false" selection-start-line="150" selection-start-column="14" selection-end-line="150" selection-end-column="14" />
+            <state relative-caret-position="163">
+              <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -177,8 +177,8 @@
         <option value="$PROJECT_DIR$/client/components/portfolio/ProjectGrid.js" />
         <option value="$PROJECT_DIR$/client/portfolio.js" />
         <option value="$PROJECT_DIR$/client/styles/_typography.styl" />
-        <option value="$PROJECT_DIR$/client/styles/style.styl" />
         <option value="$PROJECT_DIR$/client/components/Main.js" />
+        <option value="$PROJECT_DIR$/client/styles/style.styl" />
       </list>
     </option>
   </component>
@@ -310,12 +310,12 @@
       <option name="presentableId" value="Default" />
       <updated>1501339064890</updated>
       <workItem from="1501339071666" duration="525000" />
-      <workItem from="1501339641666" duration="8766000" />
+      <workItem from="1501339641666" duration="8821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9291000" />
+    <option name="totallyTimeSpent" value="9346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -709,14 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/styles/style.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="150" column="14" lean-forward="false" selection-start-line="150" selection-start-column="14" selection-end-line="150" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/components/portfolio/ProjectGrid.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -734,6 +726,14 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/styles/style.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
